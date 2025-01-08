@@ -10,4 +10,6 @@
 #docker.getcollate.io/openmetadata/server:1.6.1
 #docker.getcollate.io/openmetadata/ingestion:1.6.1
 
-odpi/egeria:latest
+#odpi/egeria:latest
+bitnami/kafka:latest
+docker.io/odpi/egeria-platform:latest
