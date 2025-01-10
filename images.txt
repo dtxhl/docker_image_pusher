@@ -13,4 +13,4 @@
 #odpi/egeria:latest
 #bitnami/kafka:latest
 #docker.io/odpi/egeria-platform:latest
-datacommons/datahub:latest
+linkedin/datahub:latest
