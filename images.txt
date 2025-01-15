@@ -13,4 +13,5 @@
 #odpi/egeria:latest
 #bitnami/kafka:latest
 #docker.io/odpi/egeria-platform:latest
-linkedin/datahub:latest
+#linkedin/datahub:latest
+mysql:5.7
