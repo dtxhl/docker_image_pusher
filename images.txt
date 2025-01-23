@@ -24,10 +24,10 @@
 #acryldata/datahub-frontend-react:latest
 #acryldata/datahub-gms:latest
 #acryldata/datahub-upgrade:latest
-elasticsearch:7.10.1
+#elasticsearch:7.10.1
 #acryldata/datahub-elasticsearch-setup:latest
 #acryldata/datahub-kafka-setup:latest
-mysql:8.2
+#mysql:8.2
 #acryldata/datahub-mysql-setup:latest
 #confluentinc/cp-schema-registry:7.4.0
 #confluentinc/cp-zookeeper:7.4.0
@@ -43,3 +43,4 @@ mysql:8.2
 #acryldata/datahub-mysql-setup:head
 #acryldata/datahub-postgres-setup:head
 #acryldata/datahub-actions:head
+apache/superset
