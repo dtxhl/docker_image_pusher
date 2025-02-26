@@ -43,4 +43,5 @@
 #acryldata/datahub-mysql-setup:head
 #acryldata/datahub-postgres-setup:head
 #acryldata/datahub-actions:head
-apache/superset
+#apache/superset
+mariadb
